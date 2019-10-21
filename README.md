@@ -1,2 +1,4 @@
 # ggetsnow
-General get snow retrieval software 
+General get snow retrieval software produced by Kat Bormann
+katbormann@gmail.com
+
